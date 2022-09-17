@@ -1,1 +1,1 @@
-# Eportfolio is a simple portfolio about me
+# Eportfolio is a simple portfolio using javascript, html,and css
